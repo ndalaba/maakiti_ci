@@ -1,0 +1,2 @@
+[20-Jun-2012 06:14:06 UTC] PHP Fatal error:  Class 'Controller' not found in /home/developm/public_html/maakiti/application/controllers/admin/admin.php on line 2
+[20-Jun-2012 06:14:13 UTC] PHP Fatal error:  Class 'Controller' not found in /home/developm/public_html/maakiti/application/controllers/admin/home.php on line 2

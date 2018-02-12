@@ -1,0 +1,32 @@
+*{font-family: Arial,Helvetica,sans-serif; font-size: 12px;}
+.zone_titre td { border-top: 2px solid #FFFFFF;}
+.zone_titre_p1 {background-color: #212E50; color: #FFFFFF;font-family: Arial,Helvetica,sans-serif;font-size: 13px;font-weight: bold;height: 20px;vertical-align: bottom;}
+.zone_titre_p1 span {color: #FFFFFF;font-family: Arial,Helvetica,sans-serif;font-size: 13px;font-weight: bold;}
+.zone_titre_p2 {background-color: #FFFFFF; background-image: url("../../img/admin/fiche_arrondi_haut.gif");background-position: left top;
+    background-repeat: no-repeat;color: #000000;font-family: Arial,Helvetica,sans-serif;font-size: 13px;font-weight: bold;
+    height: 20px; vertical-align: bottom;}
+.zone_titre_mini td {background-color: #212E50; border-top: 2px solid #FFFFFF;color: #FFFFFF; font-size: 13px;font-weight: bold;height: 25px;}
+.zone_titre_p1_reduit {background-color: #212E50;color: #FFFFFF;font-family: Arial,Helvetica,sans-serif;font-size: 10px;font-weight: bold;height: 15px;vertical-align: bottom;}
+.zone_titre_p2_reduit {background-color: #FFFFFF;background-image: url("../../img/admin/fiche_arrondi_haut.gif");background-position: left top;
+    background-repeat: no-repeat;color: #000000;font-family: Arial,Helvetica,sans-serif;font-size: 10px; font-weight: bold;
+    height: 15px; vertical-align: bottom;}
+.zone_titre_mini_reduit td {background-color: #212E50; border-top: 1px solid #FFFFFF;color: #FFFFFF;font-size: 10px;font-weight: bold;height: 15px;}
+.zonefiche {background-color: #F1F1F1; border-bottom: 1px solid #212E50;border-left: 1px solid #212E50;border-right: 1px solid #212E50;
+    font-size: 11px;padding: 5px;}
+.zonefichecomplete {background-color: #F1F1F1;border-color: #212E50; border-left: 1px solid #212E50;border-right: 1px solid #212E50;
+    border-style: solid;border-width: 1px;font-size: 11px;padding: 5px;}
+.zonefiche td {font-size: 11px;}
+.zonefiche2 {background-color: #F1F1F1;border-left: 1px solid #212E50;border-right: 1px solid #212E50;font-size: 11px;padding: 5px;}
+.zonefiche2 td {font-size: 11px;}
+.finzonefiche2 {background-color: #F1F1F1;background-image: url("../../img/admin/fiche_arrondi_bas.gif");background-position: left bottom;
+    background-repeat: no-repeat;border-right: 1px solid #212E50;font-family: Arial,Helvetica,sans-serif;
+    font-size: 13px; font-weight: bold; height: 23px; padding-left: 21px;vertical-align: bottom;}
+.zone_titre_p3 {background-color: #212E50;height: 10px;}
+.zonegroupe {border: 3px solid #FFFFFF;}
+.titregroupe {font-weight: bold; padding-left: 2px;padding-right: 2px;}
+.contenugroupe {padding-left: 6px;}
+.zoneboutonassistant {text-align: right;}
+.CGtxcodeclair {color: #8BBCF0;}
+.CGblanc {background-color: #FFFFFF;}
+.CGcodetresclair {background-color: #E4EEF5;}
+.zonegroupe {border: 3px solid #FFFFFF;}

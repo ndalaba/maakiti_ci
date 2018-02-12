@@ -1,0 +1,1 @@
+[20-Jun-2012 06:14:30 UTC] PHP Fatal error:  Call to undefined function base_url() in /home/developm/public_html/maakiti/application/views/index.php on line 1
